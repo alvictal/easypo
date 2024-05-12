@@ -9,7 +9,7 @@ subtasksInstructions = "Atuando como um desenvolvedor de software, quebre a hist
     em sub-tarefas destacando se é uma atividade de frontend, backend, devops ou tester."
 
 #Image Variables
-mainImg = "./assets/poimage.png"
+mainImg = "./src/assets/poimage.png"
 
 #Streamlit
 headerText = "Olá sou um chatbot para auxiliar nas escrita de suas histórias de desenvolvidos. \
