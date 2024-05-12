@@ -10,7 +10,8 @@ As tarefas serão quebradas em 4 categoriras:
  * Tester
 
 # Como usar
-Basta acessar o arquivo EasyPO.ipynb, colocar a sua key de acesso ao gemini e executar direto no seu colab.
+Você pode acessar a url https://easypo.streamlit.app/
+Ou se prefereir basta acessar o arquivo EasyPO.ipynb, colocar a sua key de acesso ao gemini e executar direto no seu colab.
 
 # Contribuições
 Se deseja contribuir a esse projeto, basta clonar e fazer um pull-request para avalição do time de desenvolvimento. Assegure apenas
